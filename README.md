@@ -1,4 +1,4 @@
-# Data Science in Straitified Healthcare and Precision Medicine
+# Data Science in Stratified Healthcare and Precision Medicine
 
 ## This repo contains programming assignments from University of Edinborough's Data Science in Stratified Healthcare and Precision Medicine course on Coursera:
 
